@@ -1,1 +1,2 @@
 # Virtual_desktop_assistant
+A Virtual_desktop_assistant  is a user-friendly software application that employs techniques to enhance desktop management. It enables users to perform tasks like file organization, launching applications, and executing system commands using voice commands. Through the utilization of Python libraries and APIs, the assistant streamlines daily desktop interactions, offering a seamless and efficient user experience.
